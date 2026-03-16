@@ -41,7 +41,7 @@
 
 * **Telegram 客服**: [@ziru921](https://t.me/ziru921)
 
-* **官网地址**: [zirulink.com](https://zirulink.com)
+* **官网地址**: [zirulink.com](https://ziru.us)
 
 ---
 
