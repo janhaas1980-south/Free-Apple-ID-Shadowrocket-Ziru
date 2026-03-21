@@ -41,7 +41,7 @@
 
 * **Telegram 客服**: [@ziru921](https://t.me/ziru921)
 
-* **官网地址**: [zirulink.com](https://ziru.us)
+* **官网地址**: [ziru.us](https://ziru.us)
 
 ---
 
@@ -51,4 +51,4 @@
 * **性能监测白皮书**: [babeedu.net 网络技术分享](https://www.babeedu.net/?p=760)
 
 ---
-*Copyright © 2026 森叔实验室. All rights reserved.*
+*Copyright © 2026 ziru实验室. All rights reserved.*
